@@ -7,6 +7,7 @@ public class HelloWorld {
 	System.out.println("Bom dia");
 	System.out.println("Boa noite");
 	System.out.println("Boa tarde");
+	System.out.println("Hoje иж dia 10 de Out");
 	}
 
 }
